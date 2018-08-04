@@ -10,11 +10,6 @@ class GoogleSiteVerificationRouteServiceProvider extends RouteServiceProvider
 {
     public function map(Router $router)
     {
-
+        $router->get('hello','WidgetPlugin\Controllers\ContentController@sayHello');
     }
-}
-
-public function map(Router $router)
-{
-    $router->get('hello','WidgetPlugin\Controllers\ContentController@sayHello');
 }
