@@ -5,11 +5,11 @@ namespace WidgetPlugin\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
-class HelloWorldServiceProvider extends ServiceProvider
+class WidgetPluginServiceProvider extends ServiceProvider
 {
     public function register()
     {
-        $this->getApplication()->register(HelloWorldRouteServiceProvider::class);
+        $this->getApplication()->register(WidgetPluginRouteServiceProvider::class);
     }
 }
 
