@@ -1,5 +1,5 @@
 {
-  "name"              :"Widget - Google Website-Inhaberschaft bestätigen",
+  "name"              :"GoogleSiteVerification",
   "description"       :"Google Website-Inhaberschaft bestätigen",
   "namespace"         :"WidgetPlugin\\Providers\\GoogleSiteVerificationServiceProvider",
   "author"            :"Jost Robert Hanken",
