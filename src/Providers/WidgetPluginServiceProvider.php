@@ -3,7 +3,7 @@
 namespace WidgetPlugin\Providers;
 
 
-use plenty\Plugin\ServiceProvider;
+use Plenty\Plugin\ServiceProvider;
 
 class WidgetPluginServiceProvider extends ServiceProvider
 {
