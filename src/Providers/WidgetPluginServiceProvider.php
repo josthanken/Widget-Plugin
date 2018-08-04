@@ -9,7 +9,7 @@ class HelloWorldServiceProvider extends ServiceProvider
 {
     public function register()
     {
-        $this->getApplication()->register(WidgetPluginRouteServiceProvider::class);
+        $this->getApplication()->register(HelloWorldRouteServiceProvider::class);
     }
 }
 
