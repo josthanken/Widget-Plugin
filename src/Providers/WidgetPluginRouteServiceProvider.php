@@ -6,7 +6,7 @@ namespace WidgetPlugin\Providers;
 use Plenty\Plugin\RouteServiceProvider;
 use Plenty\Plugin\Routing\Router;
 
-class GoogleSiteVerificationRouteServiceProvider extends RouteServiceProvider
+class WidgetPluginRouteServiceProvider extends RouteServiceProvider
 {
     public function map(Router $router)
     {

@@ -4,5 +4,5 @@
   "namespace"         :"WidgetPlugin",
   "author"            :"Jost Robert Hanken",
   "type"              :"template",
-  "serviceProvider"   :"WidgetPlugin\\Providers\\GoogleSiteVerificationServiceProvider"
+  "serviceProvider"   :"WidgetPlugin\\Providers\\WidgetPluginServiceProvider"
 }
