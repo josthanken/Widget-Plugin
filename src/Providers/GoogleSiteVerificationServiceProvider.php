@@ -16,10 +16,5 @@ class GoogleSiteVerificationServiceProvider extends ServiceProvider
     {
         $this->getApplication()->register(GoogleSiteVerificationRouteServiceProvider::class);
     }
-
-    public function map(Router $router)
-    {
-        $router->get('hello','WidgetPlugin\Controllers\ContentController@sayHello');
-    }
 }
 
