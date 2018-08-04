@@ -8,7 +8,7 @@ use Plenty\Plugin\Templates\Twig;
 
 class ContentController extends Controller
 {
-    public function sayHello(Twig $twig)
+    public function sayHello(Twig $twig):string
     {
         return $twig->render('WidgetPlugin::content.hello');
     }
