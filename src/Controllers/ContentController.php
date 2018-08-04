@@ -1,6 +1,6 @@
 <?php
 
-namespace GoogleSiteVerification\Controllers;
+namespace WidgetPlugin\Controllers;
 
 
 use Plenty\Plugin\Controller;
