@@ -5,7 +5,7 @@ namespace WidgetPlugin\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
-class WidgetPluginServiceProvider extends ServiceProvider
+class HelloWorldServiceProvider extends ServiceProvider
 {
     public function register()
     {
