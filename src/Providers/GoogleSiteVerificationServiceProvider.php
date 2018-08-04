@@ -1,6 +1,6 @@
 <?php
 
-namespace WidgetPlugin\Providers;
+namespace GoogleSiteVerification\Providers;
 
 
 use plenty\Plugin\ServiceProvider;
