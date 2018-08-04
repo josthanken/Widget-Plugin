@@ -1,8 +1,8 @@
 {
   "name"              :"GoogleSiteVerification",
   "description"       :"Google Website-Inhaberschaft bestätigen",
-  "namespace"         :"WidgetPlugin\\Providers\\GoogleSiteVerificationServiceProvider",
+  "namespace"         :"GoogleSiteVerification",
   "author"            :"Jost Robert Hanken",
   "type"              :"template",
-  "serviceProvider"   :null
+  "serviceProvider"   :"WidgetPlugin\\Providers\\GoogleSiteVerificationServiceProvider"
 }
