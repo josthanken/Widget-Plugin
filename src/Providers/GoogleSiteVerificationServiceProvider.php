@@ -3,7 +3,7 @@
 namespace WidgetPlugin\Providers;
 
 
-use Plenty\Plugin\ServiceProvider;
+use plenty\Plugin\ServiceProvider;
 
 class GoogleSiteVerificationServiceProvider extends ServiceProvider
 {
