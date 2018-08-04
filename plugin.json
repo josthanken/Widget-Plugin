@@ -1,5 +1,5 @@
 {
-  "name"              :"GoogleSiteVerification",
+  "name"              :"WidgetPlugin",
   "description"       :"Google Website-Inhaberschaft bestätigen",
   "namespace"         :"WidgetPlugin",
   "author"            :"Jost Robert Hanken",
