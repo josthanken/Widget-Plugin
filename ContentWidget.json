@@ -1,6 +1,6 @@
 [
   {
-"identifier": "Ceres::GoogleSiteVerification",
+"identifier": "WidgetPlugin::GoogleSiteVerification",
 "label": "Widget.textLabel",
 "previewImageURL": "/images/widgets/text.png",
 "type": "default",
@@ -8,7 +8,7 @@
 "default",
 "structure"
 ],
-"widgetClass": "Ceres\\Widgets\\Common\\GoogleSiteVerification",
+"widgetClass": "WidgetPlugin\\Widgets\\Common\\GoogleSiteVerification",
 "settings": {
 "appearance": {
 "type": "selectBox",
