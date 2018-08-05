@@ -1,6 +1,6 @@
 <?php
 
-namespace Ceres\Widgets\Common;
+namespace WidgetsPlugin\Widgets\Common;
 
 use Ceres\Widgets\Helper\BaseWidget;
 
