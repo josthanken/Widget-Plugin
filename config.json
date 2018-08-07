@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "menu": {
+    "Config.GoogleSiteVerification": {
+      "label": "Config.googleSiteVerification",
+      "formFields": {
+        "googleSiteVerification": {
+          "type": "inputText",
+          "required": false,
+          "deprecated": true,
+          "label": "Config.googleSiteVerification",
+          "options": {
+            "defaultValue": ""
+          }
+        }
+      }
+    }
+  }
+}
